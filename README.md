@@ -1,4 +1,4 @@
-                                              ## Hi there 👋 , I am Priya Jain From Safidon.
+
  <h1 align = "center" >Passionate about Data Structures and Algorithm ! </h1>
 
 - 🌱 I’m currently learning DSA , Operating System , DBMS , web Development
