@@ -1,4 +1,4 @@
-                                                ## Hi there 👋 , I am Priya Jain From Safidon.
+                                              <h2> <b> ## Hi there 👋 , I am Priya Jain From Safidon. </b> </h2>
 Passionate about Data Structures and Algorithm !
 
 - 🌱 I’m currently learning DSA , Operating System , DBMS , web Development
