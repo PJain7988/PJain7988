@@ -38,8 +38,8 @@ By My Linkedin Profile : https://www.linkedin.com/in/priya-jain-a7312028b/ </h3>
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PJain7988&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PJain7988&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PJain7988&show_icons=true&locale=en" alt="priya jain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PJain7988&show_icons=true&locale=en" alt="priya jain" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PJain7988&" alt="priya jain" /></p>
