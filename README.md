@@ -1,45 +1,297 @@
+<h1 align="center">Hi 👋, I'm Priya Jain</h1>
 
- <h1 align = "center" >Passionate about Data Structures and Algorithm ! </h1>
+<h3 align="center">
+Full Stack Developer | AI/ML Developer | MERN Stack Developer | Competitive Programmer
+</h3>
 
-<h2> 🌱 I’m currently learning DSA , Operating System , DBMS , web Development </h2>
-
-<h1 align="center">Hi 👋, I'm Priya Jain from Safidon .</h1>
-<h3 align="center">A passionate About Data Structures and Algorithm from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
-<h3> - 👯 I’m looking to collaborate on an project which is suitable for my skills.</h3>
-<h3>- 💬 Ask me about DSA , Front End Development and basic of other language </h3>
-<h3>- 📫 How to reach me: <br>
-By My Email Id : priyajain7988@gmail.com <br>
-By My Linkedin Profile : https://www.linkedin.com/in/priya-jain-a7312028b/ </h3>
-<h3>- 👨‍💻 All of my projects are available at ((https://www.linkedin.com/in/priya-jain-a7312028b/)) </h3>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/priya-jain-a7312028b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Priya jain" height="70" width="80" /></a>
-<a href="https://www.geeksforgeeks.org/user/user_96fineo2gqw/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="simplified_learner" height="70" width="80" /></a>
-<a href="https://leetcode.com/u/Student_GU/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="simplified learner" height="70" width="80" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="80"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="80"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="80"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="80"/> </a> </p>
-
-<div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/Student_GU/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Student_GU/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Student_GU/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Student_GU/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Student_GU/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="jyot" height="200" width="200" /></a>
+Passionate about building scalable web applications, AI powered solutions, and solving challenging Data Structures & Algorithms problems.
 </p>
 
+<img align="right" alt="Coding Girl" width="420"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PJain7988&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=PJain7988&label=Profile%20Views&color=blue&style=flat-square"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PJain7988&show_icons=true&locale=en" alt="priya jain" /></p> -->
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PJain7988&" alt="priya jain" /></p>
+# 🚀 About Me
+
+- 🎓 B.Tech CSE Student at **Geeta University**
+- 💻 Full Stack Developer (MERN)
+- 🤖 AI / Machine Learning Developer
+- 🌱 Currently learning
+  - Advanced DSA
+  - System Design
+  - Generative AI
+  - Cloud Computing
+  - DevOps
+- 👩‍💻 Solved **1000+ DSA Problems**
+- 🏆 LeetCode Rating **1551**
+- ⭐ Google Gemini Certified University Student
+- 💬 Ask me about
+  - MERN Stack
+  - React
+  - Node.js
+  - Python
+  - Machine Learning
+  - DSA
+- 📫 Email
+  - **priyajain7988@gmail.com**
+
+---
+
+# 🌐 Portfolio
+
+### Portfolio
+
+https://project-website-development.vercel.app/
+
+### LinkedIn
+
+https://www.linkedin.com/in/priya-jain-a7312028b/
+
+### GitHub
+
+https://github.com/PJain7988
+
+### Resume
+
+(Add Resume Link)
+
+---
+
+# 🔥 Major Projects
+
+## 🚀 OmniSync AI
+
+### AI Powered Unified Platform
+
+**Tech Stack**
+
+Next.js • React • TypeScript • Tailwind CSS • Python • Machine Learning
+
+### Features
+
+- AI Dashboard
+- NLP
+- Computer Vision
+- Blockchain Integration
+- Predictive Analytics
+- Automation
+- Modern UI
+
+🔗 Live
+
+https://omnysync-ai.vercel.app/
+
+🔗 GitHub
+
+(Add GitHub Link)
+
+---
+
+## 💼 CareerKarma
+
+### Complete Job Portal
+
+**Tech Stack**
+
+MongoDB • Express • React • Node.js
+
+### Features
+
+- JWT Authentication
+- Role Based Access
+- Recruiter Dashboard
+- Candidate Dashboard
+- Resume Upload
+- LMS Quiz
+- Admin Panel
+
+🔗 Live
+
+(Add Live Link)
+
+🔗 GitHub
+
+(Add GitHub Link)
+
+---
+
+## 💬 KimiChat
+
+### Real Time Chat Application
+
+**Tech Stack**
+
+React • Node • Express • MongoDB • Socket.IO
+
+### Features
+
+- Live Messaging
+- JWT Authentication
+- Image Sharing
+- Responsive Design
+- Online Users
+- User Sessions
+
+🔗 Live
+
+(Add Live Link)
+
+🔗 GitHub
+
+(Add GitHub Link)
+
+---
+
+## ⌚ TimelyCraft
+
+### Luxury Smart Watch Ecommerce
+
+**Tech Stack**
+
+React • Tailwind CSS • Node.js • MongoDB
+
+### Features
+
+- Glassmorphism UI
+- Authentication
+- Shopping Cart
+- Wishlist
+- Product Search
+- Payment Ready
+- Responsive Design
+
+🔗 Live
+
+https://project-website-development.vercel.app/
+
+🔗 GitHub
+
+https://github.com/PJain7988/TimelyCraft_Ecommerce
+
+---
+
+# 🏆 Achievements
+
+🏅 1000+ Problems Solved
+
+🏅 LeetCode Rating 1551
+
+🏅 Top 32% Globally
+
+🏅 500+ Problems during Coding Blocks DSA Program
+
+🏅 Google Gemini Certified Student
+
+🏅 AWS APAC Solutions Architecture Virtual Experience
+
+🏅 #100DaysOfCode Completed
+
+🏅 5⭐ C++ HackerRank
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,linux,vscode,postman,aws" />
+
+</p>
+
+---
+
+# 📊 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Student_GU/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/user_96fineo2gqw/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🏅 LeetCode Badges
+
+<p align="center">
+
+<img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="180">
+
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="180">
+
+<img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="180">
+
+<img src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" width="180">
+
+<img src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" width="180">
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PJain7988&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PJain7988&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJain7988&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJain7988&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/PJain7988/PJain7988/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# ☕ Fun Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<p align="center">
+
+⭐ Don't forget to star my repositories if you find them useful!
+
+</p>
