@@ -1,50 +1,121 @@
 <!-- HEADER SECTION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Priya+Jain" />
+<h1>
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Priya Jain
+</h1>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Developer;MERN+Stack+Developer;Competitive+Programmer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Developer;MERN+Stack+Developer;Competitive+Programmer;Building+Scalable+Software;1000%2B+DSA+Problems+Solved" />
 
-<!-- <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Building+scalable+web+applications+using+modern+technologies.;Passionate+about+Artificial+Intelligence+and+Machine+Learning.;1000%2B+DSA+Problems+Solved+%7C+LeetCode+Rating+1551.;Always+learning%2C+building%2C+and+sharing+knowledge." />
 
-<img src="https://komarev.com/ghpvc/?username=PJain7988&label=Profile+Views&color=0e75b6&style=for-the-badge"/> -->
+<img src="https://komarev.com/ghpvc/?username=PJain7988&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/PJain7988?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/PJain7988?style=for-the-badge&logo=github"/>
 
 </div>
 
 <!-- SIDE-BY-SIDE HERO LAYOUT -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=PJain7988&label=Profile%20Views&color=blue&style=flat-square"/>
-      </p>
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🎓 B.Tech CSE Student at <b>Geeta University</b> (2023 - 2027)[cite: 1]</li>
-        <li>💻 Full Stack Developer (MERN Stack)[cite: 1]</li>
-        <li>🤖 AI / Machine Learning Developer[cite: 1]</li>
-        <li>🌱 Currently learning: Advanced DSA, System Design, Generative AI, Cloud Computing, DevOps</li>
-        <li>👩‍💻 Solved <b>1000+ DSA Problems</b> on LeetCode[cite: 1]</li>
-        <li>🏆 LeetCode Rating <b>1551</b> (Top 32% Globally)[cite: 1]</li>
-        <li>⭐ Google Gemini Certified University Student[cite: 1]</li>
-        <li>💬 Ask me about: MERN Stack, React, Node.js, Python, ML, DSA[cite: 1]</li>
-        <li>📫 Email: <b>priyajain7988@gmail.com</b>[cite: 1]</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- PREMIUM PROFESSIONAL TECH GIRL ILLUSTATION -->
-      <img alt="Professional Coding Girl Workspace" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cmMxODh5b3kwd295cHJkcmJ0bnM4Nm95cHk0cWZ5ZTd3djVvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280px" alt="Coding Girl GIF" style="filter: drop-shadow(0px 8px 24px rgba(0,0,0,0.25));" />
-    </td>
-  </tr>
+<h2 align="center">👩‍💻 About Me</h2>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+<p align="center">
+
+I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a strong foundation in <b>Full Stack Development</b>, <b>Artificial Intelligence</b>, and <b>Data Structures & Algorithms</b>. I enjoy building scalable applications, solving complex algorithmic problems, and transforming innovative ideas into real-world software solutions through clean, efficient, and maintainable code.
+
+</p>
+
+
+### 💼 Professional Highlights
+
+<table>
+
+<tr>
+<td>🎓 <b>Education</b></td>
+<td>B.Tech CSE, Geeta University (2023–2027)</td>
+</tr>
+
+
+<tr>
+<td>⚡ <b>Technical Focus</b></td>
+<td>MERN Stack • AI • ML • Algorithmic Problem Solving</td>
+</tr>
+
+<tr>
+<td>🧠 <b>Problem Solving</b></td>
+<td>1000+ DSA Problems Solved</td>
+</tr>
+
+<tr>
+<td>🏆 <b>LeetCode</b></td>
+<td>Rating 1551 (Top 32% Globally)</td>
+</tr>
+
+<tr>
+<td>⭐ <b>Certification</b></td>
+<td>Google Gemini Certified Student</td>
+</tr>
+
+<tr>
+<td>📚 <b>Currently Learning</b></td>
+<td>MERN Stack • AI • ML • System Design • DSA</td>
+</tr>
+
+<tr>
+<td>💬 <b>Ask Me About</b></td>
+<td>React • Node.js • MERN • AI/ML • DSA</td>
+</tr>
+
+<tr>
+<td>📧 <b>Email</b></td>
+<td><a href="mailto:priyajain7988@gmail.com">priyajain7988@gmail.com</a></td>
+</tr>
+
+</table>
+
+</td>
+
+<td width="45%" align="center">
+
+<img alt="Professional Coding Girl Workspace" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5cmMxODh5b3kwd295cHJkcmJ0bnM4Nm95cHk0cWZ5ZTd3djVvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Coding Girl GIF" style="filter: drop-shadow(0px 8px 24px rgba(0,0,0,0.25));" />
+
+<br>
+
+<div align="center">
+
+✨ ✨ ✨
+
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Passionate+Developer;Building+Impactful+Solutions;Continuous+Learning" alt="Typing SVG" />
+
+</div>
+
+</td>
+
+</tr>
+
 </table>
  
 ---
  
 # 🌐 Connect With Me
  
-<p align="left">
+<p align="center">
   <a href="https://project-website-development.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=letr&logoColor=white" alt="Portfolio" />
   </a>
