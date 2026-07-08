@@ -116,7 +116,7 @@ I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a
 <h2 align="center">🌍 Connect With Me</h2>
 
 <p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-alpha-eosin-98.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white" width="170"/>
