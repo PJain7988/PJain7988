@@ -150,82 +150,114 @@ I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a
  
 ---
  
-# 🔥 Featured Projects
- 
-<!-- 2x2 SHADOWED PREMIUM GLASSMORPHISM GRID LAYOUT -->
-<table width="100%" border="0" cellpadding="10" cellspacing="10">
-  <tr>
-    <!-- CARD 1: OMNISYNC AI -->
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); padding: 20px;transition: transform 0.3s ease;">
-      <h3 align="left">🔮 OmniSync AI</h3>
-      <p style="font-size: 13px; color: #8b949e;"><i>AI Powered Unified Platform</i></p>
-      <p style="font-size: 14px;">Modular centralized systems dashboard grouping pipeline analytics, algorithmic inferences, and responsive automation matrices[cite: 1].</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <hr style="border-top: 1px solid #21262d; margin: 15px 0;">
-      <p align="left">
-        <a href="https://omnysync-ai.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge" /></a>
-        <a href="YOUR_OMNISYNC_GITHUB_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/GitHub-💻-grey?style=for-the-badge" /></a>
-      </p>
-    </td>
-    <!-- CARD 2: CAREER KARMA -->
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); padding: 20px; transition: transform 0.3s ease;">
-      <h3 align="left">💼 CareerKarma</h3>
-      <p style="font-size: 13px; color: #8b949e;"><i>Complete Job Portal Ecosystem</i></p>
-      <p style="font-size: 14px;">Enterprise candidate deployment application backed by robust JWT authentication layers, granular dashboards, and custom embedded quizzing modules[cite: 1].</p>
-      <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
-      <hr style="border-top: 1px solid #21262d; margin: 15px 0;">
-      <p align="left">
-        <a href="YOUR_CAREER_KARMA_LIVE_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge" /></a>
-        <a href="YOUR_CAREER_KARMA_GITHUB_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/GitHub-💻-grey?style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- CARD 3: KIMICHAT -->
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); padding: 20px; transition: transform 0.3s ease;">
-      <h3 align="left">💬 KimiChat</h3>
-      <p style="font-size: 13px; color: #8b949e;"><i>Real Time Chat Application</i></p>
-      <p style="font-size: 14px;">Low-latency messaging architecture running active socket data transfers, secure tokenized endpoints, and live active footprint tracking tools[cite: 1].</p>
-      <p>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <hr style="border-top: 1px solid #21262d; margin: 15px 0;">
-      <p align="left">
-        <a href="YOUR_KIMICHAT_LIVE_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge" /></a>
-        <a href="YOUR_KIMICHAT_GITHUB_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/GitHub-💻-grey?style=for-the-badge" /></a>
-      </p>
-    </td>
-    <!-- CARD 4: TIMELYCRAFT -->
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); padding: 20px; transition: transform 0.3s ease;">
-      <h3 align="left">⌚ TimelyCraft</h3>
-      <p style="font-size: 13px; color: #8b949e;"><i>Luxury Smart Watch E-commerce</i></p>
-      <p style="font-size: 14px;">Premium online interface built around polished glassmorphic styling, featuring dedicated user states, dynamic lookups, and strict responsive formatting templates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <hr style="border-top: 1px solid #21262d; margin: 15px 0;">
-      <p align="left">
-        <a href="https://project-website-development.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-🚀-blue?style=for-the-badge" /></a>
-        <a href="https://github.com/PJain7988/TimelyCraft_Ecommerce" target="_blank"><img src="https://img.shields.io/badge/GitHub-💻-grey?style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
+# 🚀 Featured Projects
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Full+Stack+Development;Enterprise+Solutions;Open+Source+Projects"/>
+</p>
+
+<table align="center" width="100%" cellspacing="10">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🤖 OmniSync AI</h2>
+
+<b>AI Powered Unified Intelligence Platform</b>
+
+<br><br>
+
+Enterprise-grade AI platform integrating Machine Learning, Natural Language Processing, Computer Vision, Predictive Analytics, and Blockchain technologies into one scalable ecosystem.
+
+<br><br>
+
+### ✨ Key Features
+
+✅ AI Assistant
+
+✅ Computer Vision
+
+✅ NLP Engine
+
+✅ Predictive Analytics
+
+✅ Blockchain Integration
+
+✅ Responsive Dashboard
+
+<br>
+
+<b>⚙️ Tech Stack</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,tailwind"/>
+
+<br><br>
+
+<a href="https://omnysync-ai.vercel.app">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/PJain7988/OmniSync-AI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>💼 CareerKarma</h2>
+
+<b>AI Powered Career & Recruitment Platform</b>
+
+<br><br>
+
+An intelligent recruitment ecosystem enabling recruiters and candidates with AI Resume Analysis, Resume Builder, LMS, Career Assistant, Interview Management and Smart Hiring.
+
+<br><br>
+
+### ✨ Key Features
+
+✅ AI Resume Analyzer
+
+✅ Resume Builder
+
+✅ LMS Platform
+
+✅ Career Assistant
+
+✅ Recruiter Dashboard
+
+✅ Interview Management
+
+<br>
+
+<b>⚙️ Tech Stack</b>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+
+<br><br>
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/PJain7988/CareerKarma_Job_Portal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
 </table>
  
 ---
