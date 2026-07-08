@@ -118,33 +118,31 @@ I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a
 <p align="center">
 
 <a href="https://portfolio-alpha-eosin-98.vercel.app/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white"
-      alt="Portfolio"
-    />
-  </a>
-&nbsp;
-
-<a href="mailto:priyajain7988@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white" width="170"/>
 </a>
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/priya-jain-a7312028b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF" alt="LinkedIn" height="45"/>
+<a href="mailto:priyajain7988@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFA500" width="170"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/priya72062" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=blue" width="170"/>
 </a>
 
 &nbsp;
 
 <a href="https://github.com/PJain7988" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717&labelColor=FFFFFF" alt="GitHub" height="45"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=181717&labelColor=f6f8fa" width="170"/>
 </a>
 
 &nbsp;
 
 <a href="YOUR_RESUME_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&labelColor=FFFFFF" alt="Resume" height="45"/>
+  <img src="https://img.shields.io/badge/Resume-034E5B?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&labelColor=FFFFFF" width="170"/>
 </a>
 
 </p>
