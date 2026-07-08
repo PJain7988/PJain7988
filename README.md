@@ -115,34 +115,31 @@ I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a
  
 <h2 align="center">🌍 Connect With Me</h2>
 
-<p align="center">
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-alpha-eosin-98.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white" width="170"/>
 </a>
-
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:priyajain7988@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFA500" width="170"/>
+  <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFA500" width="140"/>
 </a>
-
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/priya72062" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=blue" width="170"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=blue" width="125"/>
 </a>
-
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/PJain7988" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=181717&labelColor=f6f8fa" width="170"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=181717&labelColor=f6f8fa" width="150"/>
 </a>
-
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="YOUR_RESUME_LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-034E5B?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&labelColor=FFFFFF" width="170"/>
+  <img src="https://img.shields.io/badge/Resume-034E5B?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&labelColor=FFFFFF" width="110"/>
 </a>
 
 </p>
