@@ -1,17 +1,17 @@
 <!-- HEADER SECTION -->
-<h1 align="center">Hi 👋,
-I'm Priya Jain</h1>
- 
-<h3 align="center">
-Full Stack Developer | AI/ML Developer | MERN Stack
-Developer | Competitive Programmer
-</h3>
- 
-<p align="center">
-Passionate about building scalable web applications, AI
-powered solutions, and solving challenging Data Structures & Algorithms
-problems.
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Priya+Jain" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Developer;MERN+Stack+Developer;Competitive+Programmer;Building+Scalable+Software;1000%2B+DSA+Problems+Solved" />
+
+<!-- <br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PJain7988&label=Profile+Views&color=0e75b6&style=for-the-badge"/> -->
+
+</div>
 
 <!-- SIDE-BY-SIDE HERO LAYOUT -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
