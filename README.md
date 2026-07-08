@@ -113,21 +113,44 @@ I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a
  
 ---
  
-# 🌐 Connect With Me
- 
+<h2 align="center">🌍 Connect With Me</h2>
+
 <p align="center">
-  <a href="https://project-website-development.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=letr&logoColor=white" alt="Portfolio" />
+
+<a href="https://portfolio-alpha-eosin-98.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white"
+      alt="Portfolio"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/priya-jain-a7312028b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/PJain7988" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-🔥-red?style=for-the-badge" alt="Resume" />
-  </a>
+&nbsp;
+
+<a href="mailto:priyajain7988@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFFFFF" alt="Gmail"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/priya-jain-a7312028b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFFFFF" alt="LinkedIn" height="45"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/PJain7988" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=181717&labelColor=FFFFFF" alt="GitHub" height="45"/>
+</a>
+
+&nbsp;
+
+<a href="YOUR_RESUME_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&labelColor=FFFFFF" alt="Resume" height="45"/>
+</a>
+
+</p>
+
+<p align="center">
+<i>"Building impactful software through clean code, continuous learning, and innovation."</i>
 </p>
  
 ---
