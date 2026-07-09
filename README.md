@@ -563,26 +563,80 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
   <img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_Source_Contributor-0EA5E9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/%F0%9F%92%BB_Always_Learning-7C3AED?style=for-the-badge"/>
 </p>
----
  
-# 🏆 Achievements & Verified Milestones
- 
-<!-- TROPHY CARDS SHOWCASE -->
+<!-- ACHIEVEMENTS HEADER -->
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PJain7988&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="Priya's GitHub Trophies" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB&text=🏆%20Achievements%20%26%20Verified%20Milestones&fontColor=ffffff&fontSize=36&animation=fadeIn&fontAlignY=35"/>
+
 </p>
 
-*   🏅 **1000+ Problems Solved** across competitive online environments[cite: 1].
-*   🏅 **LeetCode Rating 1551** — Top 32% Globally[cite: 1].
-*   🏅 **500+ algorithmic problems** completed via Coding Blocks DSA architecture track[cite: 1].
-*   🏅 **Google Gemini Certified University Student** credential status[cite: 1].
-*   🏅 **AWS APAC Solutions Architecture** Virtual Experience verify earner.
-*   🏅 **#100DaysOfCode** Sprint execution completed milestone[cite: 1].
-*   🏅 **5⭐ in C++** processing verified tier ranking on HackerRank[cite: 1].
- 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Recognized+for+Consistent+Learning;Competitive+Programming+Enthusiast;Building+Enterprise+Grade+Applications;Always+Learning+%7C+Always+Building"/>
+
+</p>
+
 ---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PJain7988&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=18&margin-h=18"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/1000%2B-DSA%20Problems-success?style=for-the-badge&logo=leetcode"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/LeetCode-Rating%201551-orange?style=for-the-badge&logo=leetcode"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Top-32%25%20Global-blue?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/5⭐-HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+
+</p>
+
+---
+
+| 🏅 Achievement | 📌 Description |
+|:---------------|:---------------|
+| 🚀 **1000+ DSA Problems Solved** | Solved over **1000+ algorithmic and data structure problems** across leading competitive programming platforms. |
+| 💻 **LeetCode Rating 1551** | Achieved a **1551 rating**, ranking among the **Top 32%** of programmers globally. |
+| 📚 **Coding Blocks DSA Program** | Successfully completed **500+ advanced DSA problems** during an intensive training program. |
+| 🤖 **Google Gemini Certified** | Earned the **Google Gemini Certified University Student** credential for AI proficiency. |
+| ☁️ **AWS APAC Solutions Architecture** | Successfully completed the **AWS APAC Solutions Architecture Virtual Experience Program**. |
+| 🔥 **#100DaysOfCode** | Completed the **100DaysOfCode Challenge**, demonstrating consistency in software development. |
+| ⭐ **5★ HackerRank (C++)** | Achieved a **5-Star Gold Badge** in **C++ Programming** on HackerRank. |
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Problem%20Solver-1000%2B%20Questions-success?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/AI%20Developer-Enterprise%20Projects-2563EB?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge"/>
+
+</p>
  
 # 💻 Tech Stack
  
