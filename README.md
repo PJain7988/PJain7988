@@ -569,7 +569,10 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 <!-- ========================= ACHIEVEMENTS ========================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Achievements%20%26%20Milestones&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=twinkling&color=0:0F172A,25:2563EB,50:4F46E5,75:7C3AED,100:06B6D4"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;text=Achievements&amp;fontAlign=50&amp;fontAlignY=40&amp;fontSize=44&amp;fontColor=ffffff&amp;animation=twinkling&amp;color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB"
+    alt="Achievements"
+  />
 </p>
 
 ---
@@ -603,9 +606,25 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PJain7988&theme=github_dark"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=GitHub+Analytics+%26+Development+Insights;Open+Source+Contributor;Building+Enterprise+Grade+Applications;Continuous+Learning+%7C+Continuous+Growth"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB"/>
+
+</p>
+
+<!-- Profile Overview -->
+
+<p align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PJain7988&theme=github_dark"/>
+
+</p>
+
+<!-- Three Cards -->
 
 <p align="center">
 
@@ -614,6 +633,40 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJain7988&theme=github_dark"/>
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJain7988&theme=github_dark"/>
+
+</p>
+
+<!-- Extra Cards -->
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PJain7988&theme=github-dark-blue&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PJain7988&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+</p>
+
+<!-- Languages -->
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJain7988&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PJain7988&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+<!-- Contribution Graph -->
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PJain7988&theme=github-compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB"/>
 
 </p>
 
