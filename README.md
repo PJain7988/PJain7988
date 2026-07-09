@@ -138,7 +138,7 @@ I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a
 </a>
 &nbsp;&nbsp;
 
-<a href="YOUR_RESUME_LINK" target="_blank">
+<a href="https://drive.google.com/file/d/1yaWYM7W9YKKR-VtjE4nf6aCtkyh_8l7y/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-034E5B?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000&labelColor=FFFFFF" width="110"/>
 </a>
 
@@ -150,116 +150,312 @@ I'm <b>Priya Jain</b>, a passionate <b>Computer Science undergraduate</b> with a
  
 ---
  
-# 🚀 Featured Projects
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=170&text=🚀%20Featured%20Projects&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+%7C+Full+Stack+%7C+Cloud+Solutions;Enterprise+Grade+Applications;Building+Scalable+Software;Crafting+Innovative+Digital+Experiences"/>
+
+</div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Full+Stack+Development;Enterprise+Solutions;Open+Source+Projects"/>
+
+<img src="https://img.shields.io/badge/Projects-10%2B-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-MERN-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Production%20Ready-Projects-orange?style=for-the-badge"/>
+
 </p>
 
-<table align="center" width="100%" cellspacing="10">
-
+<table align="center" width="100%" cellpadding="10" cellspacing="0">
 <tr>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
 
-<td width="50%" valign="top">
+## 🤖 OmniSync AI
 
-<h2>🤖 OmniSync AI</h2>
+### 🌟 AI-Powered Unified Intelligence Platform
 
-<b>AI Powered Unified Intelligence Platform</b>
+> **OmniSync AI** is an **enterprise-grade artificial intelligence platform** that seamlessly integrates **Machine Learning**, **Natural Language Processing (NLP)**, **Computer Vision**, **Predictive Analytics**, and **Blockchain** to deliver intelligent, scalable, and data-driven solutions for modern businesses.
 
-<br><br>
+<p align="center">
 
-Enterprise-grade AI platform integrating Machine Learning, Natural Language Processing, Computer Vision, Predictive Analytics, and Blockchain technologies into one scalable ecosystem.
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Enterprise%20Ready-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable%20Architecture-0EA5E9?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/Production%20Ready-10B981?style=for-the-badge"/>
 
-<br><br>
+</p>
 
 ### ✨ Key Features
 
-✅ AI Assistant
+🔹 **AI Assistant**  
+Intelligent conversational assistant powered by contextual understanding and smart response generation.
 
-✅ Computer Vision
+🔹 **Computer Vision**  
+Advanced image recognition, visual intelligence, and object detection capabilities.
 
-✅ NLP Engine
+🔹 **Natural Language Processing**  
+Context-aware language understanding, semantic analysis, and intelligent text processing.
 
-✅ Predictive Analytics
+🔹 **Predictive Analytics**  
+AI-driven forecasting models that transform complex data into actionable business insights.
 
-✅ Blockchain Integration
+🔹 **Blockchain Integration**  
+Secure, decentralized architecture ensuring transparency, integrity, and trust.
 
-✅ Responsive Dashboard
+🔹 **Interactive Analytics Dashboard**  
+Modern dashboards providing real-time monitoring, visualization, and performance analytics.
 
-<br>
+---
 
-<b>⚙️ Tech Stack</b>
+### ⚙️ Technology Stack
 
-<br><br>
+<p>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,tailwind"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,tailwind,firebase"/>
 
-<br><br>
+</p>
 
-<a href="https://omnysync-ai.vercel.app">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<p align="left">
+
+<a href="https://omni-sync-ai.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-&nbsp;
-
-<a href="https://github.com/PJain7988/OmniSync-AI">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+&nbsp;&nbsp;
+<a href="https://github.com/PJain7988/OmniSync-AI" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
 
-<td width="50%" valign="top">
+## 💼 CareerKarma
 
-<h2>💼 CareerKarma</h2>
+### 🌟 AI-Powered Career & Recruitment Platform
 
-<b>AI Powered Career & Recruitment Platform</b>
+> **CareerKarma** is a **comprehensive AI-powered recruitment ecosystem** designed to simplify hiring journey for both **recruiters** and **job seekers**. It integrates **AI Resume Analysis**, **Resume Builder**, **LMS**, **Interview Management**, and **Intelligent Career Assistant** to deliver a seamless hiring experience.
 
-<br><br>
-
-An intelligent recruitment ecosystem enabling recruiters and candidates with AI Resume Analysis, Resume Builder, LMS, Career Assistant, Interview Management and Smart Hiring.
-
-<br><br>
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Powered-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MERN%20Stack-2563EB?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Smart%20Hiring-06B6D4?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ATS%20Ready-22C55E?style=for-the-badge"/>
+</p>
 
 ### ✨ Key Features
 
-✅ AI Resume Analyzer
+🔹 **AI Resume Analyzer**  
+Automatically analyzes resumes, identifies skill gaps, and provides intelligent recommendations for better job matching.
 
-✅ Resume Builder
+🔹 **Smart Resume Builder**  
+Generate professional ATS-friendly resumes using customizable templates and AI-assisted content generation.
 
-✅ LMS Platform
+🔹 **Learning Management System (LMS)**  
+Integrated learning portal with structured courses, assessments, quizzes, and progress tracking.
 
-✅ Career Assistant
+🔹 **Recruiter Dashboard**  
+Advanced Applicant Tracking System (ATS) enabling recruiters to manage job postings, applications, and hiring workflows efficiently.
 
-✅ Recruiter Dashboard
+🔹 **Interview Management**  
+End-to-end interview scheduling, candidate tracking, evaluation, and hiring process automation.
 
-✅ Interview Management
+🔹 **AI Career Assistant**  
+Interactive AI-powered assistant offering career guidance, interview preparation, resume suggestions, and job recommendations.
 
-<br>
+---
 
-<b>⚙️ Tech Stack</b>
+### ⚙️ Technology Stack
 
-<br><br>
+<p>
 
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,tailwind"/>
 
-<br><br>
+</p>
 
-<a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-2563EB?style=for-the-badge&logo=vercel"/>
+<p align="left">
+
+<a href="https://career-karma-job-portal.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-&nbsp;
-
-<a href="https://github.com/PJain7988/CareerKarma_Job_Portal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+&nbsp;&nbsp;
+<a href="https://github.com/PJain7988/CareerKarma_Job_Portal" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+</p>
 </td>
-
 </tr>
 
+<tr>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
+
+## 💬 KimiChat
+
+### 🌟 AI-Powered Real-Time Communication Platform
+
+> **KimiChat** is a **feature-rich real-time messaging platform** designed to deliver secure, intelligent, and seamless communication. It combines **AI-powered conversations**, **instant messaging**, **media sharing**, and **group collaboration** with a modern, responsive user experience.
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Real--Time%20Messaging-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Assistant-2563EB?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Socket.IO-0EA5E9?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT%20Secured-10B981?style=for-the-badge"/>
+
+</p>
+
+### ✨ Key Features
+
+🔹 **Real-Time Messaging**  
+Instant, low-latency communication powered by **Socket.IO** for a seamless chat experience.
+
+🔹 **AI-Powered Assistant**  
+Integrated intelligent assistant providing contextual responses and enhanced user interactions.
+
+🔹 **Secure Authentication**  
+Robust **JWT-based authentication** with protected routes and secure user session management.
+
+🔹 **Private & Group Conversations**  
+Create private chats, group channels, and collaborative discussion spaces with ease.
+
+🔹 **Media & File Sharing**  
+Share images, documents, and multimedia files securely in real time.
+
+🔹 **Modern Responsive Interface**  
+Clean, intuitive UI optimized for desktop, tablet, and mobile devices.
+
+---
+
+### ⚙️ Technology Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</p>
+
+<p align="left">
+
+<a href="https://kimi-chat-app.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/PJain7988/KimiChat_App" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+</td>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
+
+## 📋 TaskNest Core
+### Project Management Platform
+Modern workspace built for agile task planning, workflow automation, and cross-functional team collaboration.
+
+#### ⚡ Highlights
+- 📋 **Kanban Boards:** Interactive drag-and-drop workflow tracker
+- 🤖 **Automation:** Trigger-based action rules for rapid updates
+- 📊 **Team Analytics:** Sprint progress and velocity tracking charts
+- 👥 **Collaboration:** Real-time assignment threads and comments
+- 🛡️ **Access Control:** Role-based permissions across workspaces
+
+#### 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb"/>
+
+<br><br>
+
+<a href="https://github.com/PJain7988/TaskNest_core" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/PJain7988/TaskNest_core" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
+
+## 🏥 AegisCare
+### Healthcare Management System
+Enterprise healthcare platform featuring patient lifecycle management, appointment tracking, and secure RBAC profiles.
+
+#### ⚡ Highlights
+- 🔐 **Granular RBAC:** Isolated Patient, Doctor, and Admin dashboards
+- 📅 **Smart Scheduling:** Conflict-free medical appointment engine
+- 📂 **EHR Logs:** Secure and encrypted electronic health records
+- 🔑 **Session Control:** Secure stateless architecture utilizing JWT
+- 📱 **Adaptive UI:** Fully responsive viewport optimizations
+
+#### 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+<br><br>
+
+<a href="https://github.com/PJain7988/AegisCare_HealthCare_API" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/PJain7988/AegisCare_HealthCare_API" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
+
+## 🛒 Lumina Ecommerce
+### Premium Shopping Platform
+Professional MERN e-commerce application powered by Google OAuth, Redux centralized state management, and an automated checkout.
+
+#### ⚡ Highlights
+- 🔑 **Social Auth:** Instant onboarding with secure Google OAuth 2.0
+- 🛒 **Redux Pipeline:** Dynamic global cart, wishlist, and session state
+- 🛠️ **Admin Control:** Inventory management, order tracking, and sales insights
+- 🔍 **Fuzzy Search:** Advanced queries with client-side indexing and filters
+- 💳 **Secure Gateway:** Ready logic hooks for payment gateway endpoints
+
+#### 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,tailwind"/>
+
+<br><br>
+
+<a href="https://github.com/PJain7988/Lumina_Ecommerce" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/PJain7988/Lumina_Ecommerce" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
 </table>
- 
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%AD%90_Building_AI_Powered_Applications-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_Source_Contributor-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB_Always_Learning-7C3AED?style=for-the-badge"/>
+</p>
 ---
  
 # 🏆 Achievements & Verified Milestones
