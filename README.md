@@ -686,23 +686,25 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 ---
 
-## 🎖️ Certifications
+<h2 align="center">🏅 Certifications</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<a href="https://www.theforage.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_RPMYAskAkNEtja2hB_1760202018093_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+</a>
 
-&nbsp;
+<a href="https://edu.google.accredible.com/ecefd81d-55c7-4dae-9729-9151b9929774">
+<img src="https://img.shields.io/badge/Google-Gemini%20Certified-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4"/>
+</a>
 
-<img src="https://img.shields.io/badge/Google-Gemini%20Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Coding%20Blocks-DSA%20Program-FF6B00?style=for-the-badge"/>
+</a>
 
-&nbsp;
-
-<img src="https://img.shields.io/badge/Coding%20Blocks-DSA%20Program-EA580C?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/HackerRank-5★%20C++-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/2301301053_priya">
+<img src="https://img.shields.io/badge/HackerRank-5★%20C++-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </p>
 
