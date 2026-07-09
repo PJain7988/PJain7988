@@ -714,40 +714,155 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/AI%20Developer-Enterprise%20Projects-2563EB?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Problem%20Solver-1000%2B%20Questions-0EA5E9?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Lifelong-Learner-10B981?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Always-Building-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20Open%20Source-Contributor-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI%20Developer-Enterprise%20Projects-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20Problem%20Solver-1000%2B%20DSA%20Problems-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚%20Lifelong-Learner-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20Always-Building-F59E0B?style=for-the-badge"/>
 
 </p>
 
 ---
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PJain7988&theme=github-compact&hide_border=true"/>
 
-</p>
+</p> -->
  
-# 💻 Tech Stack
- 
+<!-- ============================== -->
+<!-- 💻 TECH STACK -->
+<!-- ============================== -->
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,linux,vscode,postman,aws" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Tech%20Stack&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB"/>
+
 </p>
- 
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Development;Artificial+Intelligence+%26+Machine+Learning;MERN+Stack+Developer;Always+Learning+New+Technologies"/>
+
+</p>
+
+---
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,redux&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Responsive_UI-Expert-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Modern_UI/UX-Tailwind-7C3AED?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST_API-Development-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-Authentication-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Role_Based_Access-Control-9333EA?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁️ Cloud • Tools • DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode,postman,npm&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/Linux-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+## 🚀 Core Expertise
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN_Stack-Full_Stack_Development-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Applications-Enterprise_Ready-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-Production_Grade-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DSA-1000%2B_Problems-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-Learning-F59E0B?style=for-the-badge"/>
+
+</p>
+
+
 ---
  
 # 📊 Coding Profiles
