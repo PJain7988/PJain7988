@@ -865,20 +865,120 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 ---
  
-# 📊 Coding Profiles
- 
+<!-- ====================================================== -->
+<!-- 📊 CODING PROFILES -->
+<!-- ====================================================== -->
+
 <p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Coding%20Profiles&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Competitive+Programming+Journey;Data+Structures+%26+Algorithms+Enthusiast;Problem+Solver+%7C+Continuous+Learner;Building+Strong+Programming+Foundations"/>
+
+</p>
+
+---
+
+<table align="center" border="0">
+<tr>
+
+<td align="center">
 <a href="https://leetcode.com/u/Student_GU/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/🧡%20LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
- 
-<a href="https://www.geeksforgeeks.org/user/user_96fineo2gqw/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</td>
+
+<td width="20"></td>
+
+<td align="center">
+<a href="https://www.geeksforgeeks.org/profile/user_96fineo2gqw" target="_blank">
+<img src="https://img.shields.io/badge/💚%20GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
- 
-<a href="https://www.hackerrank.com/" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</td>
+
+<td width="20"></td>
+
+<td align="center">
+<a href="https://www.hackerrank.com/profile/2301301053_priya" target="_blank">
+<img src="https://img.shields.io/badge/💻%20HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+</td>
+
+</tr>
+</table>
+
+---
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🧡 LeetCode
+
+**1000+ Problems Solved**
+
+**Rating:** 1551
+
+**Top 32% Globally**
+
+<a href="https://leetcode.com/u/Student_GU/">
+<img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💚 GeeksforGeeks
+
+**DSA Practice**
+
+**Interview Preparation**
+
+**Programming Challenges**
+
+<a href="https://www.geeksforgeeks.org/profile/user_96fineo2gqw">
+<img src="https://img.shields.io/badge/View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 HackerRank
+
+**5★ C++**
+
+**Problem Solving**
+
+**Programming Skills**
+
+<a href="https://www.hackerrank.com/profile/2301301053_priya">
+<img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏆%201000+-DSA%20Problems-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⭐%201551-LeetCode%20Rating-F59E0B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🌍%20Top%2032%25-Global-10B981?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀-Competitive%20Programmer-7C3AED?style=for-the-badge"/>
+
 </p>
  
 ---
@@ -918,7 +1018,7 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 # 🐍 Contribution Snake
  
 <p align="center">
-<img src="https://raw.githubusercontent.com/PJain7988/PJain7988/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/PJain7988/PJain7988/output/github-contribution-grid-snake.svg" />
 </p>
  
 ---
