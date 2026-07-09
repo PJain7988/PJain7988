@@ -368,27 +368,63 @@ Clean, intuitive UI optimized for desktop, tablet, and mobile devices.
 <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
 
 ## 📋 TaskNest Core
-### Project Management Platform
-Modern workspace built for agile task planning, workflow automation, and cross-functional team collaboration.
 
-#### ⚡ Highlights
-- 📋 **Kanban Boards:** Interactive drag-and-drop workflow tracker
-- 🤖 **Automation:** Trigger-based action rules for rapid updates
-- 📊 **Team Analytics:** Sprint progress and velocity tracking charts
-- 👥 **Collaboration:** Real-time assignment threads and comments
-- 🛡️ **Access Control:** Role-based permissions across workspaces
+### 🌟 Intelligent Project & Team Collaboration Platform
 
-#### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb"/>
+> **TaskNest Core** is **modern enterprise project management platform** built to streamline **task planning**, **workflow automation**, **cross-functional team collaboration** empowers organizations with real-time project tracking, agile workflows, advanced analytics, secure role-based access management.
 
-<br><br>
+<p align="center">
 
-<a href="https://github.com/PJain7988/TaskNest_core" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Project%20Management-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Agile%20Workflow-2563EB?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Team%20Collaboration-0EA5E9?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Workflow%20Automation-10B981?style=for-the-badge"/>
+
+</p>
+
+### ✨ Key Features
+
+🔹 **Interactive Kanban Boards**  
+Manage projects efficiently with intuitive drag-and-drop task organization and agile sprint workflows.
+
+🔹 **Workflow Automation**  
+Automate repetitive processes using intelligent triggers, task dependencies, and real-time notifications.
+
+🔹 **Project Analytics Dashboard**  
+Monitor project health through productivity metrics, sprint velocity, progress tracking, and visual reports.
+
+🔹 **Team Collaboration**  
+Collaborate seamlessly with task assignments, threaded discussions, mentions, comments, and activity timelines.
+
+🔹 **Role-Based Access Control**  
+Secure workspace management with customizable permissions for administrators, managers, and team members.
+
+🔹 **Real-Time Progress Tracking**  
+Track milestones, deadlines, and project completion status with dynamic dashboards and live updates.
+
+---
+
+### ⚙️ Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nodejs,express,mongodb,tailwind"/>
+
+</p>
+
+<p align="left">
+
+<a href="https://task-nest-core-frontend.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/PJain7988/TaskNest_core" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 </tr>
@@ -397,53 +433,124 @@ Modern workspace built for agile task planning, workflow automation, and cross-f
 <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
 
 ## 🏥 AegisCare
-### Healthcare Management System
-Enterprise healthcare platform featuring patient lifecycle management, appointment tracking, and secure RBAC profiles.
 
-#### ⚡ Highlights
-- 🔐 **Granular RBAC:** Isolated Patient, Doctor, and Admin dashboards
-- 📅 **Smart Scheduling:** Conflict-free medical appointment engine
-- 📂 **EHR Logs:** Secure and encrypted electronic health records
-- 🔑 **Session Control:** Secure stateless architecture utilizing JWT
-- 📱 **Adaptive UI:** Fully responsive viewport optimizations
+### 🌟 Enterprise Healthcare Management Platform
 
-#### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+> **AegisCare** is a **secure, enterprise-grade healthcare management system** designed to streamline **patient care**, **appointment scheduling**, **medical record management**, and **hospital administration**. The platform leverages **Role-Based Access Control (RBAC)** and **JWT authentication** to provide a reliable, scalable, and privacy-focused healthcare experience.
 
-<br><br>
+<p align="center">
 
-<a href="https://github.com/PJain7988/AegisCare_HealthCare_API" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Healthcare%20Platform-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/RBAC%20Security-2563EB?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Appointment%20Management-0EA5E9?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT%20Secured-10B981?style=for-the-badge"/>
+
+</p>
+
+### ✨ Key Features
+
+🔹 **Role-Based Access Control (RBAC)**  
+Dedicated dashboards and secure access levels for **Patients**, **Doctors**, **Hospital Staff**, and **Administrators**.
+
+🔹 **Smart Appointment Scheduling**  
+Intelligent appointment booking system with conflict detection, scheduling, and real-time availability management.
+
+🔹 **Electronic Health Records (EHR)**  
+Securely manage patient medical histories, prescriptions, diagnoses, and treatment records with encrypted storage.
+
+🔹 **Secure Authentication**  
+Robust **JWT-based authentication** with protected routes, encrypted sessions, and secure API communication.
+
+🔹 **Hospital Management Dashboard**  
+Centralized dashboard for monitoring appointments, patient records, healthcare operations, and administrative activities.
+
+🔹 **RESTful APIs:** Built secure APIs for authentication, patient records, and appointment management.
+
+
+---
+
+### ⚙️ Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,tailwind"/>
+
+</p>
+
+<p align="left">
+
+<a href="https://aegis-care-health-care-api.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/PJain7988/AegisCare_HealthCare_API" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+</p>
 </td>
 <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px;">
 
 ## 🛒 Lumina Ecommerce
-### Premium Shopping Platform
-Professional MERN e-commerce application powered by Google OAuth, Redux centralized state management, and an automated checkout.
 
-#### ⚡ Highlights
-- 🔑 **Social Auth:** Instant onboarding with secure Google OAuth 2.0
-- 🛒 **Redux Pipeline:** Dynamic global cart, wishlist, and session state
-- 🛠️ **Admin Control:** Inventory management, order tracking, and sales insights
-- 🔍 **Fuzzy Search:** Advanced queries with client-side indexing and filters
-- 💳 **Secure Gateway:** Ready logic hooks for payment gateway endpoints
+### 🌟 Enterprise MERN E-Commerce Platform
 
-#### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=react,redux,nodejs,mongodb,tailwind"/>
+> **Lumina Ecommerce** is a **modern, full-stack e-commerce platform** built with the **MERN Stack**, delivering a premium online shopping experience through **Google OAuth authentication**, **Redux state management**, secure user workflows, and a responsive, intuitive interface.
 
-<br><br>
+<p align="center">
 
-<a href="https://github.com/PJain7988/Lumina_Ecommerce" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-7C3AED?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20OAuth-2563EB?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Redux%20Toolkit-0EA5E9?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/E--Commerce-10B981?style=for-the-badge"/>
+
+</p>
+
+### ✨ Key Features
+
+🔹 **Secure Authentication**  
+Seamless user authentication with **Google OAuth 2.0** and protected JWT-based authorization.
+
+🔹 **Smart Shopping Experience**  
+Interactive product browsing with advanced search, category filters, sorting, and personalized recommendations.
+
+🔹 **Redux State Management**  
+Efficient global state management for shopping cart, wishlist, user sessions, and application data.
+
+🔹 **Admin Dashboard**  
+Comprehensive administration panel for managing products, inventory, customer orders, and sales analytics.
+
+🔹 **Shopping Cart & Wishlist**  
+Real-time cart management with wishlist functionality and dynamic price calculations.
+
+🔹 **Responsive & Modern UI**  
+Premium user interface built with **React** and **Tailwind CSS**, optimized for desktop, tablet, and mobile devices.
+
+---
+
+### ⚙️ Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,javascript,tailwind"/>
+
+</p>
+
+<p align="left">
+
+<a href="https://lumina-ecommerce-mauve.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/PJain7988/Lumina_Ecommerce" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 </tr>
