@@ -566,67 +566,100 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
  
 <!-- ACHIEVEMENTS HEADER -->
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB&text=🏆%20Achievements%20%26%20Verified%20Milestones&fontColor=ffffff&fontSize=36&animation=fadeIn&fontAlignY=35"/>
-
-</p>
+<!-- ========================= ACHIEVEMENTS ========================= -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Recognized+for+Consistent+Learning;Competitive+Programming+Enthusiast;Building+Enterprise+Grade+Applications;Always+Learning+%7C+Always+Building"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Achievements%20%26%20Milestones&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=twinkling&color=0:0F172A,25:2563EB,50:4F46E5,75:7C3AED,100:06B6D4"/>
 </p>
 
 ---
 
-<p align="center">
+## 🌟 Professional Highlights
 
-<img src="https://github-profile-trophy.vercel.app/?username=PJain7988&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=18&margin-h=18"/>
+<table align="center">
+<tr>
+<td>
+<img src="https://img.shields.io/badge/1000%2B-DSA%20Problems-success?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
 
-</p>
+<td>
+<img src="https://img.shields.io/badge/LeetCode-1551%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</td>
 
----
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/1000%2B-DSA%20Problems-success?style=for-the-badge&logo=leetcode"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/LeetCode-Rating%201551-orange?style=for-the-badge&logo=leetcode"/>
-
-&nbsp;
-
+<td>
 <img src="https://img.shields.io/badge/Top-32%25%20Global-blue?style=for-the-badge"/>
+</td>
 
-&nbsp;
+<td>
+<img src="https://img.shields.io/badge/5★-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/5⭐-HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+
+---
+
+## 📈 GitHub Performance
+
+<p align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PJain7988&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PJain7988&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJain7988&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJain7988&theme=github_dark"/>
 
 </p>
 
 ---
 
-| 🏅 Achievement | 📌 Description |
-|:---------------|:---------------|
-| 🚀 **1000+ DSA Problems Solved** | Solved over **1000+ algorithmic and data structure problems** across leading competitive programming platforms. |
-| 💻 **LeetCode Rating 1551** | Achieved a **1551 rating**, ranking among the **Top 32%** of programmers globally. |
-| 📚 **Coding Blocks DSA Program** | Successfully completed **500+ advanced DSA problems** during an intensive training program. |
-| 🤖 **Google Gemini Certified** | Earned the **Google Gemini Certified University Student** credential for AI proficiency. |
-| ☁️ **AWS APAC Solutions Architecture** | Successfully completed the **AWS APAC Solutions Architecture Virtual Experience Program**. |
-| 🔥 **#100DaysOfCode** | Completed the **100DaysOfCode Challenge**, demonstrating consistency in software development. |
-| ⭐ **5★ HackerRank (C++)** | Achieved a **5-Star Gold Badge** in **C++ Programming** on HackerRank. |
+## 🏅 Verified Achievements
+
+| 🏆 Achievement | 📌 Description |
+|:--------------|:---------------|
+| 🧠 **1000+ DSA Problems Solved** | Solved over **1000** algorithmic problems across LeetCode, GeeksforGeeks, and other coding platforms. |
+| 🚀 **LeetCode Rating 1551** | Ranked among the **Top 32%** of competitive programmers worldwide. |
+| 📚 **Coding Blocks DSA Program** | Successfully completed an intensive **500+ problem** Data Structures & Algorithms curriculum. |
+| 🤖 **Google Gemini Certified** | Certified in AI technologies through the **Google Gemini University Program**. |
+| ☁️ **AWS APAC Solutions Architecture** | Completed the AWS APAC Solutions Architecture Virtual Experience Program. |
+| 🔥 **#100DaysOfCode** | Successfully completed the 100DaysOfCode challenge, demonstrating consistency and discipline. |
+| ⭐ **5★ HackerRank (C++)** | Achieved a **5-Star Gold Badge** in C++ Programming on HackerRank. |
 
 ---
 
+## 🎖️ Certifications
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 &nbsp;
 
-<img src="https://img.shields.io/badge/Problem%20Solver-1000%2B%20Questions-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google-Gemini%20Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Coding%20Blocks-DSA%20Program-EA580C?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/HackerRank-5★%20C++-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Continuous Growth
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge"/>
 
 &nbsp;
 
@@ -634,7 +667,23 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 &nbsp;
 
-<img src="https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-1000%2B%20Questions-0EA5E9?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-10B981?style=for-the-badge"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/Always-Building-F59E0B?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PJain7988&theme=github-compact&hide_border=true"/>
 
 </p>
  
