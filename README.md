@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB&text=Hi%20👋%20I'm%20Priya%20Jain&fontColor=ffffff&fontSize=48&fontAlignY=32&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB&text=Hi%20👋%20I'm%20Priya%20Jain&fontColor=ffffff&fontSize=48&fontAlignY=32&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=850&height=45&lines=Full+Stack+Developer;AI%2FML+Developer;MERN+Stack+Developer;Competitive+Programmer"/>
 
