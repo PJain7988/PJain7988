@@ -1,20 +1,21 @@
 <!-- HEADER SECTION -->
 <div align="center">
 
-<h1>
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Priya Jain
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB&text=Hi%20👋%20I'm%20Priya%20Jain&fontColor=ffffff&fontSize=48&fontAlignY=32&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Developer;MERN+Stack+Developer;Competitive+Programmer" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=850&height=45&lines=Full+Stack+Developer;AI%2FML+Developer;MERN+Stack+Developer;Competitive+Programmer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&height=35&lines=Building+scalable+web+applications+using+modern+technologies.;Passionate+about+Artificial+Intelligence+and+Machine+Learning.;1000%2B+DSA+Problems+Solved+%7C+LeetCode+Rating+1551.;Always+learning%2C+building%2C+and+sharing+knowledge."/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=950&lines=Building+scalable+web+applications+using+modern+technologies.;Passionate+about+Artificial+Intelligence+and+Machine+Learning.;1000%2B+DSA+Problems+Solved+%7C+LeetCode+Rating+1551.;Always+learning%2C+building%2C+and+sharing+knowledge." />
-
-<img src="https://komarev.com/ghpvc/?username=PJain7988&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/PJain7988?style=for-the-badge&logo=github"/>
-
+<img src="https://komarev.com/ghpvc/?username=PJain7988&label=Profile+Views&color=0e75b6&style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/github/followers/PJain7988?style=for-the-badge&logo=github"/>&nbsp;
 <img src="https://img.shields.io/github/stars/PJain7988?style=for-the-badge&logo=github"/>
+
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-2563EB?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/1000%2B-DSA%20Problems-success?style=for-the-badge"/>&nbsp;
+<img src="https://img.shields.io/badge/AI%20%7C%20Full%20Stack-Developer-7C3AED?style=for-the-badge"/>
 
 </div>
 
