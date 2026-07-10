@@ -999,11 +999,11 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 # 📈 GitHub Stats
  
 <p align="center">
-<img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=PJain7988&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PJain7988&theme=tokyonight" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PJain7988&theme=tokyonight" width="48%" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJain7988&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJain7988&theme=tokyonight" width="48%" />
 </p>
  
 ---
