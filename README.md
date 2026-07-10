@@ -1016,13 +1016,6 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
  
 ---
  
-# 🐍 Contribution Snake
- 
-<p align="center">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/PJain7988/PJain7988/output/github-contribution-grid-snake.svg" />
-</p>
- 
----
  
 # ☕ Fun Quote
  
