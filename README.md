@@ -611,11 +611,11 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,25:4F46E5,50:7C3AED,75:06B6D4,100:2563EB"/>
 
-</p>
+</p> -->
 
 <!-- Profile Overview -->
 
