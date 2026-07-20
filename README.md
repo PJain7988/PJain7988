@@ -633,17 +633,12 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJain7988&theme=github_dark"/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJain7988&theme=github_dark"/>
+<!-- <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PJain7988&theme=github_dark"/> -->
 
-</p>
-
-<!-- Extra Cards -->
-
-<p align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PJain7988&theme=github-dark-blue&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PJain7988&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PJain7988&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/> -->
 
 </p>
 
@@ -651,7 +646,7 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJain7988&layout=compact&theme=github_dark&hide_border=true"/>
+<!-- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJain7988&layout=compact&theme=github_dark&hide_border=true"/> -->
 
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PJain7988&theme=github_dark&utcOffset=5.5"/>
 
@@ -999,10 +994,9 @@ Premium user interface built with **React** and **Tailwind CSS**, optimized for 
 # 📈 GitHub Stats
  
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PJain7988&theme=tokyonight" width="48%" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PJain7988&theme=tokyonight" width="48%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PJain7988&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PJain7988&theme=tokyonight" width="48%" />
 </p>
  
